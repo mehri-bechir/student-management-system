@@ -41,7 +41,7 @@ pip install PyQt5
 
 ## 📸 Screenshot
 
-![Student Manager](assets/screenshot.png)
+![Student Manager](screenshot.png)
 
 ---
 

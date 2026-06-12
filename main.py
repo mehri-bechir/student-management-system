@@ -238,6 +238,7 @@ def search():
         w.age_student.clear()
         w.means_student.clear()
 def refresh():
+    w.table_students.setRowCount(0)
     fill_table_students()
     w.name_student.clear()
     w.age_student.clear()
